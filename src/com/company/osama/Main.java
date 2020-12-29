@@ -14,5 +14,6 @@ public class Main {
         System.out.println("adding a master commit");
         System.out.println("adding in f3");
         System.out.println("adding in master again");
+        System.out.println("adding in master again");
     }
 }
