@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Osama khan");
         System.out.println("adding 1st feature");
         System.out.println("adding 2nd feature");
+        System.out.println("adding a master commit");
     }
 }
